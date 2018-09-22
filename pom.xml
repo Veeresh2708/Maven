@@ -21,7 +21,7 @@
   </properties>
   <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>release</id>
         <name>veeresh-releases</name>
         <url>https://veeresh.jfrog.io/veeresh/Maven_local</url>
     </repository>
